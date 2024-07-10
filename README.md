@@ -1,4 +1,4 @@
-# AzureDevOps-Zero-to-Hero with real-time projects
+# AzureDevOps-Zero-to-Hero with real-time projects.
 
 Welcome to our comprehensive course on Azure DevOps, where we'll dive deep into concepts, demos, and real-time projects to help you master Azure DevOps and bolster your DevOps skills.
 **This playlist will be published on my YouTube channel and is free for anyone to use and follow.**
